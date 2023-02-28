@@ -30,7 +30,7 @@ const webpackConfig = {
                 use: {
                     loader: 'file-loader',
                     options: {
-                        name: 'wp-content/themes/jclabs-react-theme/dist/img/[name].[ext]'
+                        name: 'wp-content/themes/ap-react-theme/dist/img/[name].[ext]'
                     }
                 }
             }
